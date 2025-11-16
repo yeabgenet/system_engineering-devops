@@ -1,3 +1,2 @@
 #!/bin/bash
-# Script to display all directory contents, including hidden files, in long format.
 ls -la

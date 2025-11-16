@@ -1,3 +1,2 @@
 #!/bin/bash
-# Script to display the current directory contents in long format.
 ls -l
